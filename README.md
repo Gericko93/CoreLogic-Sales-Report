@@ -16,6 +16,8 @@ This report offers insights and recommendations across the following key areas:
 Click [here](https://github.com/Gericko93/CoreLogic-Sales-Report/blob/main/CoreLogic%20Sales%20Report.pbix) to view the interactive PowerBI dashboard
 The SQL queries utilized to analyze the business questions and develop the charts are found [here](https://github.com/Gericko93/CoreLogic-Sales-Report/blob/main/CoreLogic%20SQL%20queries.docx)
 
-
+# Data Structure
+CoreLogic's database structure as seen below consists of a table with 20000 rows of data, regarding different metrics for every transactions made
+[CoreLogic SQL queries.docx](https://github.com/user-attachments/files/19722315/CoreLogic.SQL.queries.docx)
 
 
