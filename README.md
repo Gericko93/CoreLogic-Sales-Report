@@ -22,13 +22,16 @@ CoreLogic's database structure as shown below consists of a table with 20000 row
 
 ![image](https://github.com/user-attachments/assets/018e20ee-0fb4-4a36-93d0-977a163a7d93)
 
-#Executive Summary
+# Executive Summary
 This report analyzes customer purchase behavior to identify key trends in age demographics, product sales, shipping preferences, and buying patterns across days of the week.
 
 **Top Spending Age Group**
 
-The 18-30 age range contributes the highest total sales at $30.5 million, significantly outperforming other groups, just followed by the 66-85 group with  $27.3 million.
+The 18-30 age range contributes the highest total sales at $30.5 million, significantly outperforming other groups, just followed by the 66-85 group with  $27.3 million, as shown on the Power BI chart below.
 No purchases were recorded for customers under 18.
+
+![image](https://github.com/user-attachments/assets/ad6c158e-4ac8-4331-af39-a40b5b6265f2)
+
 
 **Most Profitable Shipping Methods**
 
@@ -38,6 +41,11 @@ Express Shipping follows at $21.6 million.
 
 Overnight Shipping trails with $12.9 million in sales.
 
+The percentages are shown below:
+
+![image](https://github.com/user-attachments/assets/47b7c10d-ae1d-40ac-b83f-0b4b7b182e88)
+
+
 **Purchase Activity by Day of the Week**
 
 Weekends dominate:
@@ -46,7 +54,11 @@ Saturday: 3959 purchases
 
 Sunday: 3942 purchases
 
-These two days alone account for nearly 40% of all purchases, indicating strong weekend buying behavior.
+
+These two days alone account for nearly 40% of all purchases, indicating strong weekend buying behavior, as shown on the Power BI chart shown below, the full interactive Power Bi Dashboard can be found [here](https://github.com/Gericko93/CoreLogic-Sales-Report/blob/main/CoreLogic%20Sales%20Report.pbix).
+
+![image](https://github.com/user-attachments/assets/69df2b89-7852-4a73-a498-f122e63af358)
+
 
 Least active days: Wednesday and Thursday.
 
